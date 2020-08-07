@@ -4,10 +4,10 @@
     "occupation":"",
     "description":"Machine Learning Enthusiast | Software Engineer | Optimist",
     "image":"profilepic.jpg",
-    "bio":"Heyaa, I'm a First Year MS CS student at UMass Amherst. I'm passionate about tech, finance and all the nerdy things you can imagine! Few of my hobbies are gaming, reading and cooking.",
+    "bio":"Hello, I'm a Second Year MS CS student at UMass Amherst. I'm passionate about tech, finance and all the nerdy things you can imagine! Few of my hobbies are gaming, reading and cooking. I'm actively looking for Full time opportunities in the role of an SDE/DS/MLE starting May 2021",
     "contactmessage":"Feel free to contact me for job opportunities or just to chat in general",
     "email": "sourishvaghulade@gmail.com",
-    "phone": "413-552-6281",
+    "phone": "+1 413-552-6281",
     "address":{
       "street":"129 Brittany Manor Dr",
       "city":"Amherst",
@@ -15,7 +15,7 @@
       "zip": "01002"
     },
     "website": "github.com/Sourish97",
-    "resumedownload":"https://drive.google.com/open?id=1NIL5nlJR6-TG33_b0XmO31nWiJfRi13A",
+    "resumedownload":"https://drive.google.com/drive/folders/1hN7B_ikHpcH-sx8pBYkOwc0EDtuTiwHU?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -145,6 +145,16 @@
   "portfolio":{
     "projects": [
       {
+        "title":"MRI Scan Restoration",
+        "category":"Python,Tensorflow,Keras",
+        "image":"mri.jpg",
+        "url":"https://github.com/Sourish97/SuperResolutionAndRestoration"
+      },{
+        "title":"Ecommerce Website",
+        "category":"HTML,CSS,JS,PHP",
+        "image":"ecommerce.png",
+        "url":"https://github.com/Sourish97/EcommerceWebsite"
+      },{
         "title":"Real Time Classroom Monitoring System",
         "category":"Machine Learning, Computer Vision",
         "image":"classroom.jpg",
