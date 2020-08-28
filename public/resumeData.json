@@ -70,7 +70,7 @@
         "company":"Neuronwoods",
         "title":"Machine Learning Engineer Intern ",
         "years":"May 2019 - July 2019",
-        "description":"Achieved 80% and 70% tracking accuracy in males and females using Object Detection and Classification methods. Generated data points such as total / unique men & women and individual view time for an advertisement for men and women per minute along with their age categories for a Tableau dashboard increasing annual revenue by $30K+. Automated the pipeline from fetching data on GCP to producing required data points using a python script. Generated data points such as user state (Attentive/Distracted) & emotion of the user(s) watching the content throughout the entire duration along with age & gender of the user(s).Developed a Django application to act as a front-end for the user(s) to watch the content provided & analyze the reactions (video & audio) in real-time."
+        "description":"Achieved 80% and 70% tracking accuracy in males and females through Object Detection & Classification methods by using Tensorflow, Keras and Caffe models. Generated data points such as total / unique men & women and individual view time for an advertisement for men and women per minute along with their age categories for a Tableau dashboard increasing annual revenue by $30K+. Automated the pipeline from fetching data on GCP to producing required data points using a python script. Generated data points such as user state (Attentive/Distracted) & emotion of the user(s) watching the content throughout the entire duration along with age & gender of the user(s).Developed a Django application to act as a front-end for the user(s) to watch the content provided & analyze the reactions (video & audio) in real-time."
       },
       {
         "company":"Kossine",
@@ -189,12 +189,16 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"\"Sourish has worked with me as an intern for around 3 months and he is one of the brightest minds I had a chance to work with. His knowledge about computer vision algorithms is great for a fresher. His capability to take tasks to completion is commendable. His willingness to keep learning and developing AI tools and products for the society is worth appreciating. I wish him all the luck for his masters and future roles. I am sure he will turn out to the best of the lot. Cheers!\"",
-        "user":"Rohit Kumar"
+        "text":"\"I have worked with Sourish on multiple projects over 3 years. Within this time frame, he has been a delight to work with. His leadership qualities and proactive attitude have helped getting any sort of work done. Sourish is always ready to go the extra mile, and takes on as many duties as he can, and glides through them with ease. For any topic that was new to us, he would study and research it and then come and explain it to everyone. All in all, Sourish is an excellent partner to work with, and an excellent friend.\"",
+        "user":"Joesph Ballow"
       },
       {
-        "text":"\"I have worked with Sourish on multiple projects over 3 years. Within this time frame, he has been a delight to work with. His leadership qualities and proactive attitude have helped getting any sort of work done. Sourish is always ready to go the extra mile, and takes on as many duties as he can, and glides through them with ease. For any topic that was new to us, he would study and research it and then come and explain it to everyone. All in all, Sourish is an excellent partner to work with, and an excellent friend.\"",
-        "user":"Tarun Utamchandani"
+        "text":"\"Sourish had an immediate impact working on a new project and was thoroughly involved from its inception till launch. His technical knowledge helped carry the project through various hurdles. He was also very receptive to feedback and also knew when to reach out to other engineers. He was collaborative, calm, and proactive throughout his time at athenahealth. Overall it was a pleasure to work with him and he would be a great asset to any engineering team.\"",
+        "user":"Jimmy Zhang"
+      },
+      {
+        "text":"\"Sourish has worked with me as an intern for around 3 months and he is one of the brightest minds I had a chance to work with. His knowledge about computer vision algorithms is great for a fresher. His capability to take tasks to completion is commendable. His willingness to keep learning and developing AI tools and products for the society is worth appreciating. I wish him all the luck for his masters and future roles. I am sure he will turn out to the best of the lot. Cheers!\"",
+        "user":"Rohit Kumar"
       }
     ]
   }
